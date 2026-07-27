@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fieldstone-growth-agency.com/sitemap.xml
+Sitemap: https://fieldstone-growth-agency.onrender.com/sitemap.xml
